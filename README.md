@@ -5,4 +5,4 @@ The focus was more on trying to make a functioning game, rather than make it loo
 That said, there are bugs in there, but it works.
 
 A playable WebGL-build of the game that runs in your browser 
-can be found over at [Unity Play] (https://play.unity.com/mg/other/minigolf_webglbuild).
+can be found over at [Unity Play](https://play.unity.com/mg/other/minigolf_webglbuild).
